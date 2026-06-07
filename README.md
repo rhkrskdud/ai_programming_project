@@ -41,7 +41,7 @@ jupyter notebook train_full.ipynb
 ## 4. 데이터셋
 
 - 학습용 데이터: `data/out_full.csv` (포함됨, 노트북 실행에 충분)
-- 원본 데이터셋: **MalwareBench** — https://github.com/MalwareBench/MalwareBench
+- 원본 데이터셋: **MalwareBench**
 - 본 CSV는 `feature_extractor/` 코드로 위 원본에서 24개 정적 피쳐를 추출한 결과
 
 ## 5. 폴더 구조
