@@ -1,0 +1,22 @@
+# 노트북 실행 시 자동 생성
+log.txt
+result.txt
+results/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 가상 환경
+venv/
+.venv/
+env/
+
+# 임시 파일
+_verify.ipynb
+_test.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
